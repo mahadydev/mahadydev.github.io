@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width'>
+    <title>FAQ</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            padding: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <h3>Frequently Asked Question</h3>
+    <strong>
+       Is Ayat player free to use?
+    </strong>
+    <p>
+        Mahady Hasan built the AYaT Player as
+        a Free app. This SERVICE is provided by
+        Mahady Hasan at no cost and is intended for use as
+        is.
+    </p>
+    
+    <p><strong>Contact Us</strong></p>
+    <p>
+        If you have any questions or suggestions about my
+        Privacy Policy, do not hesitate to contact me at mahadydev@gmail.com.
+    </p>
+
+</body>
+
+</html>
